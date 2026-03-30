@@ -1,50 +1,84 @@
-# 👋 Hey, I'm KToX-Developer
+# 🚀 Farhad Sahil
 
-🚀 Full-Stack Developer focused on building real-world SaaS & AI tools.
+<div align="center">
+  <h3>Building AI Tools & Scalable SaaS Systems</h3>
+  <p>Full-Stack Developer | React • Node.js • Prisma</p>
+</div>
 
 ---
 
 ## 🧠 About Me
-- 💻 Building **PromptHub (AI tools platform)**
-- 🏗️ Working on **workflow-based SaaS systems**
-- 📦 Experience with **inventory & verification systems**
-- 🌍 Creating **language learning app (Pashto, Dari, English)**
+
+I focus on building **real-world systems and SaaS products**.
+
+- 🚀 Working on **PromptHub (AI tools platform)**
+- 📦 Experience with **inventory & product systems**
+- 📋 Built **document verification workflows**
+- 🌍 Developing **language learning app (Pashto, Dari, English)**
 
 ---
 
 ## ⚙️ Tech Stack
-- Frontend: React.js, React Query
-- Backend: Node.js, Express
-- Database: Prisma, PostgreSQL
-- Other: JWT Auth, REST APIs, System Design
+
+**Frontend**
+- React.js
+- React Query
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+**Database**
+- Prisma ORM
+- PostgreSQL
 
 ---
 
 ## 🔥 Current Focus
-- AI Tools Platform (PromptHub)
-- Micro-SaaS Ideas
-- Scalable backend architecture
+
+- AI-powered platforms (PromptHub)
+- Workflow-based SaaS systems
+- Backend architecture & scalability
+- Building products that generate income
 
 ---
 
-## 📈 Goals
-- Build profitable SaaS products
-- Launch multiple micro-tools
-- Grow developer brand
+## 🧩 Featured Work
+
+### 🚀 PromptHub
+AI prompt & tools ecosystem for creators and developers  
+
+### 📦 Inventory & Product System
+Admin verification, inspection workflows, and structured product flow  
+
+### 📋 Document Workflow System
+- Auto-save
+- Section progress tracking
+- Status-based logic
+
+### 🌍 Literacy App
+Helping Afghan users learn Pashto, Dari, and English  
 
 ---
 
-## 🧩 Projects
-- 📌 PromptHub – AI prompt & tools platform
-- 📌 Document Verification System
-- 📌 Packing List Review System (DPL)
-- 📌 Literacy App for Afghan Users
+## 📈 Vision
+
+- Launch multiple SaaS products
+- Build scalable systems
+- Grow as a product-focused developer
 
 ---
 
-## 🤝 Connect With Me
-- GitHub:https://github.com/Farhad-Sahil
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Farhad-Sahil&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Farhad-Sahil&theme=tokyonight)
 
 ---
 
-⭐️ *“Build things that people actually use.”*
+## ⚡ Philosophy
+
+> Build systems. Solve real problems. Ship products.
